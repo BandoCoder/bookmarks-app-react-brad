@@ -1,4 +1,5 @@
+// eslint-disable-next-line import/no-anonymous-default-export
 export default {
-  API_ENDPOINT: `https://tf-ed-bookmarks-api.herokuapp.com/v3/bookmarks`,
-  API_KEY: '$2a$10$ra1z0n2XnSnbMP/ipTMHeOqqrI7i8Rssm/z8MHTxgb7LamV7LpfXu',
-}
+  API_ENDPOINT: `http://localhost:8000/api/bookmarks`,
+  API_KEY: "7b8dd442-4cf2-4158-aefe-1442ed1fdeee",
+};
